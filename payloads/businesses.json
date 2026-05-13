@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "crema-downtown",
+    "name": "Crema Coffee Roasters - Downtown",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "15 Hermitage Ave",
+    "phone": "615-255-8311",
+    "country_code": "US",
+    "url": "https://crema-coffee.com"
+  },
+  {
+    "slug": "intelligentsia-millennium-park",
+    "name": "Intelligentsia Coffee - Millennium Park",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "53 East Randolph St.",
+    "phone": "312-920-9332",
+    "country_code": "US",
+    "url": "https://www.intelligentsia.com"
+  },
+  {
+    "slug": "blue-bottle-bryant-park",
+    "name": "Blue Bottle Coffee - Bryant Park",
+    "city": "New York",
+    "state": "NY",
+    "address": "54 W 40th St.",
+    "phone": "",
+    "country_code": "US",
+    "url": "https://bluebottlecoffee.com"
+  },
+  {
+    "slug": "stumptown-downtown-pdx",
+    "name": "Stumptown Coffee Roasters - Downtown",
+    "city": "Portland",
+    "state": "OR",
+    "address": "128 SW 3rd Ave",
+    "phone": "",
+    "country_code": "US",
+    "url": "https://www.stumptowncoffee.com"
+  }
+]

@@ -1,0 +1,1415 @@
+{
+   "accessibility":{
+      "accessibility_check_success":true,
+      "has_accessibility_widget":false,
+      "has_issues_despite_widget":false,
+      "wcag_a_checkpoints_available_count":56,
+      "wcag_a_checkpoints_failed_count":1,
+      "wcag_a_issues_count":2,
+      "wcag_a_potential_checkpoints_failed_count":1,
+      "wcag_a_potential_issues_count":1,
+      "wcag_aa_checkpoints_available_count":7,
+      "wcag_aa_checkpoints_failed_count":5,
+      "wcag_aa_issues_count":13,
+      "wcag_aa_potential_checkpoints_failed_count":2,
+      "wcag_aa_potential_issues_count":8,
+      "wcag_aaa_checkpoints_available_count":0,
+      "wcag_aaa_checkpoints_failed_count":5,
+      "wcag_aaa_issues_count":13,
+      "wcag_aaa_potential_checkpoints_failed_count":2,
+      "wcag_aaa_potential_issues_count":8,
+      "wcag_guidelines_percent_complete":96,
+      "wcag_level":"a",
+      "wcag_version":"WCAG 2.0"
+   },
+   "account_id":"thryv_us_sandbox",
+   "ai_readiness":{
+      "ai_has_run":true,
+      "ai_issue_count":3,
+      "ai_user_agents_allowed":true,
+      "content_recently_updated":false,
+      "faq_structured_data_found":false,
+      "is_ai_optimised":false,
+      "is_partially_ai_optimised":true,
+      "is_path_based_site":false,
+      "llms_txt_found":false,
+      "local_structured_data_found":false,
+      "reading_difficulty_optimised":false,
+      "sitemap_found":true
+   },
+   "alternative_text":{
+      "alt_issues_count":334,
+      "count_missing_alt_link":20,
+      "images_no_alt_count":0,
+      "images_requiring_alt_found":true,
+      "number_empty_alt":334,
+      "percentage_has_alt":100
+   },
+   "amount_of_content":{
+      "average_visible_words_per_page":551,
+      "average_words_per_page":1080,
+      "num_pages_thin_content":3,
+      "pages_found":84,
+      "pages_tested":10,
+      "total_visible_word_count":5513,
+      "total_word_count":10798
+   },
+   "analysed_page_count":10,
+   "backlinks":{
+      "backlinks_check_success":true,
+      "has_spammy_backlinks":true,
+      "total_backlinks":117,
+      "total_websites_linking":110
+   },
+   "blog":{
+      "blog_post_count":"000000000000016",
+      "has_blog":true
+   },
+   "booking_widget":{
+      "has_booking_widget":false,
+      "problem_detecting_booking_widget":false
+   },
+   "broken_links":{
+      "links_analysed_count":50,
+      "links_broken_count":0,
+      "links_discovered_count":95
+   },
+   "built_by_us":{
+      "is_own_vendor":false
+   },
+   "categories":[
+      {
+         "label":"Website Engagement",
+         "score":58,
+         "sections":[
+            "booking_widget",
+            "click_to_contact",
+            "contact_details"
+         ]
+      },
+      {
+         "label":"Website Performance",
+         "score":76,
+         "sections":[
+            "last_updated",
+            "technology_profile",
+            "website_speed",
+            "mobile",
+            "sitemap",
+            "images",
+            "ssl"
+         ]
+      },
+      {
+         "label":"Social",
+         "score":55,
+         "sections":[
+            "facebook_page",
+            "instagram_account",
+            "youtube",
+            "pinterest",
+            "linkedin",
+            "blog"
+         ]
+      },
+      {
+         "label":"AI Search",
+         "score":40,
+         "sections":[
+            "ai_readiness",
+            "chatgpt",
+            "gemini_optimisation"
+         ]
+      },
+      {
+         "label":"SEO",
+         "score":79,
+         "sections":[
+            "local_grid",
+            "organic_search",
+            "content_keywords",
+            "location_pages",
+            "page_titles_and_descriptions",
+            "headings",
+            "backlinks",
+            "broken_links",
+            "review_integration",
+            "alternative_text"
+         ]
+      },
+      {
+         "label":"Online Presence",
+         "score":28,
+         "sections":[
+            "google_business_profile",
+            "local_presence",
+            "reviews",
+            "voice_search"
+         ]
+      },
+      {
+         "label":"Potential Active Ads",
+         "score":0,
+         "sections":[
+            "google_ads_readiness",
+            "facebook_ads",
+            "paid_search"
+         ]
+      }
+   ],
+   "ccpa":{
+      "has_dont_sell_info_link":true,
+      "has_forms_missing_purpose_info":false,
+      "has_method_to_submit_data_requests":true,
+      "has_potential_ccpa_compliance_issues":true,
+      "has_privacy_policy":false
+   },
+   "chatgpt":{
+      "average_recommended_rank":21,
+      "citations_by_source_and_type":{
+         "awareness":{
+            "own_website":1,
+            "unknown":1
+         },
+         "recommendation":{
+            "unknown":29
+         }
+      },
+      "citations_by_type":{
+         "own_website":1,
+         "unknown":30
+      },
+      "citations_directories":0,
+      "citations_this_business":1,
+      "citations_total":31,
+      "data_consistency_percent":100,
+      "found_in_gpt":true,
+      "found_main_business":false,
+      "gpt_language_code":"",
+      "gpt_v2_language_code":"",
+      "is_most_recommended_by_gpt":false,
+      "is_name_consistent":true,
+      "is_phone_consistent":true,
+      "is_website_consistent":true,
+      "main_business_position":0,
+      "missing_required_data":false,
+      "most_frequently_mentioned_business":"Homeschooling in Charleston, SC",
+      "overall_sentiment":"slightly-positive",
+      "percent_queries_recommended":0,
+      "platforms":{
+         "www.homeschoolcharleston.com":[
+            
+         ]
+      },
+      "ran_gpt_v2_test":true,
+      "results":[
+         {
+            "business_name":"GLOW Homeschoolers",
+            "description":"GLOW Homeschoolers provides South Carolina Option 3 Accountability, field trips, events, and support for homeschool families in the Charleston area.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Offers a comprehensive homeschool group with accountability, field trips, and support for families in Charleston.",
+            "sources":[
+               {
+                  "name":"GLOW Homeschoolers",
+                  "url":"https://glowchs.com/"
+               }
+            ]
+         },
+         {
+            "business_name":"Holy City Academy",
+            "description":"Holy City Academy offers a hybrid model combining home education flexibility with on-campus learning, supporting homeschooling families in Charleston.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Provides a faith-based hybrid micro school serving preschool through 6th grade, partnering with homeschooling families.",
+            "sources":[
+               {
+                  "name":"Holy City Academy",
+                  "url":"https://www.cccharleston.org/hca"
+               }
+            ]
+         },
+         {
+            "business_name":"Homeschooling in Charleston, SC",
+            "description":"Homeschooling in Charleston, SC provides resources, event calendars, and support for homeschool families in the Charleston area.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Offers a variety of educational resources and events for homeschooling families in Charleston.",
+            "sources":[
+               {
+                  "name":"Homeschooling in Charleston, SC",
+                  "url":"https://www.homeschoolcharleston.com/"
+               }
+            ]
+         },
+         {
+            "business_name":"Christian Homeschoolers' Association of South Carolina",
+            "description":"Christian Homeschoolers' Association of South Carolina offers services including accountability coverage, legal establishment, and support for homeschool families.",
+            "is_main_business":false,
+            "phone_number":"(843) 376-3209",
+            "reason":"Provides accountability coverage and legal establishment of homeschools in South Carolina.",
+            "sources":[
+               {
+                  "name":"Christian Homeschoolers' Association of South Carolina",
+                  "url":"https://chasc.net/services"
+               }
+            ]
+         },
+         {
+            "business_name":"Charleston Museum",
+            "description":"The Charleston Museum invites homeschooling families to participate in Homeschool History Days, featuring educational sessions and activities.",
+            "is_main_business":false,
+            "phone_number":"(843) 722-2996 ext. 236",
+            "reason":"Offers Homeschool History Days with educational sessions exploring new topics each month.",
+            "sources":[
+               {
+                  "name":"Charleston Museum",
+                  "url":"https://www.charlestonmuseum.org/for-kids/home-school/"
+               }
+            ]
+         },
+         {
+            "business_name":"Lowcountry Homeschool Association",
+            "description":"Lowcountry Homeschool Association offers support and resources for homeschool families in the Charleston area.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Provides accountability association services, networking, curriculum guidance, and homeschool compliance counseling.",
+            "sources":[
+               {
+                  "name":"Lowcountry Homeschool Association",
+                  "url":"https://lowcountryhomeschool.com/"
+               }
+            ]
+         },
+         {
+            "business_name":"South Carolina Home Educators Association",
+            "description":"South Carolina Home Educators Association supports homeschoolers by promoting a favorable image of home education in South Carolina.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Advocates for homeschooling freedoms and provides resources and support for homeschool families in South Carolina.",
+            "sources":[
+               {
+                  "name":"South Carolina Home Educators Association",
+                  "url":"https://schea.net/"
+               }
+            ]
+         },
+         {
+            "business_name":"Homeschooling Karen Guillen",
+            "description":"Homeschooling Karen Guillen provides programs aligned with the MINEDUC curriculum, adapted to each child's pace.",
+            "is_main_business":false,
+            "phone_number":"N/A",
+            "reason":"Offers a variety of educational resources and events for homeschooling families in Charleston.",
+            "sources":[
+               {
+                  "name":"Homeschooling Karen Guillen",
+                  "url":"https://homeschooling-karenguillen.cl/"
+               }
+            ]
+         },
+         {
+            "business_name":"Educaci\u0000n Alternativa en Casa",
+            "description":"Educaci\u0000n Alternativa en Casa offers pedagogical services for Spanish-speaking families interested in homeschooling.",
+            "is_main_business":false,
+            "phone_number":"+54 9 3541 538380",
+            "reason":"Provides educational services for Spanish-speaking families interested in homeschooling.",
+            "sources":[
+               {
+                  "name":"Educaci\u0000n Alternativa en Casa",
+                  "url":"https://educacionalternativaencasa.com/"
+               }
+            ]
+         }
+      ],
+      "sentiment_description":"La certificación es oficial, registrada en Carolina del Sur; ofrece certificado notariado y apostillado ([amahomeschooling.com](https://www.amahomeschooling.com/?utm_source=openai))",
+      "sources":[
+         {
+            "name":"GLOW Homeschoolers",
+            "url":"https://glowchs.com/"
+         },
+         {
+            "name":"Holy City Academy",
+            "url":"https://www.cccharleston.org/hca"
+         },
+         {
+            "name":"Homeschooling in Charleston, SC",
+            "url":"https://www.homeschoolcharleston.com/"
+         },
+         {
+            "name":"Christian Homeschoolers' Association of South Carolina",
+            "url":"https://chasc.net/services"
+         },
+         {
+            "name":"Charleston Museum",
+            "url":"https://www.charlestonmuseum.org/for-kids/home-school/"
+         },
+         {
+            "name":"Lowcountry Homeschool Association",
+            "url":"https://lowcountryhomeschool.com/"
+         },
+         {
+            "name":"South Carolina Home Educators Association",
+            "url":"https://schea.net/"
+         },
+         {
+            "name":"Homeschooling Karen Guillen",
+            "url":"https://homeschooling-karenguillen.cl/"
+         },
+         {
+            "name":"Educaci\u0000n Alternativa en Casa",
+            "url":"https://educacionalternativaencasa.com/"
+         }
+      ]
+   },
+   "click_to_contact":{
+      "email_links_found_count":12,
+      "tel_links_found_count":1
+   },
+   "code_quality":{
+      "pages_containing_non_semantic_elements_count":0,
+      "pages_table_layout_count":0
+   },
+   "colour_contrast":{
+      "colour_contrast_issue_count":1,
+      "has_colour_contrast_issues":true
+   },
+   "colour_scheme":{
+      "primary_accent_colour":"#F76808",
+      "primary_background_colour":"#FFFFFF",
+      "primary_text_colour":"#475467",
+      "secondary_accent_colour":"#475467",
+      "secondary_background_colour":"#F76808",
+      "secondary_text_colour":""
+   },
+   "contact_details":{
+      "emails":[
+         "hello@amahomeschooling.com"
+      ],
+      "phones":[
+         "+1 843 303 7755",
+         "+58 424 211 2270"
+      ]
+   },
+   "content_keywords":{
+      "has_areas_without_keywords":true,
+      "has_keywords_not_mentioned":false,
+      "keyword_density_checked":true,
+      "keywords_provided":true
+   },
+   "custom_fields":{
+      "correlation_id":"BSFX4072",
+      "eaid":"BSFX4072",
+      "email":"hello@amahomeschooling.com",
+      "initiation_source":"marketing_center",
+      "txn_id":"0362e80c-f210-43f4-b77e-95f74462c177"
+   },
+   "domain":"www.amahomeschooling.com",
+   "ecommerce":{
+      "has_ecommerce":false
+   },
+   "event":"post_attribute_store",
+   "facebook_ads":{
+      "fb_ad_library_url":"https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=162757367638362",
+      "fb_ads_adplorer":false,
+      "fb_ads_currently_active":0,
+      "fb_ads_error":false,
+      "fb_ads_error_fb_page_not_found":false,
+      "fb_ads_error_fb_test_not_enabled":false,
+      "fb_ads_total":0
+   },
+   "facebook_page":{
+      "days_since_last_post":"000000000000029",
+      "error":false,
+      "fb_info_unavailable":false,
+      "fb_link_missing":false,
+      "fb_links_to_placeholder_profile":false,
+      "found":true,
+      "image":"https://graph.facebook.com/162757367638362/picture?type=large",
+      "page_follows":11,
+      "page_id":"162757367638362",
+      "page_likes":148,
+      "page_link":"https://www.facebook.com/amahomeschooling",
+      "page_name":"AMA Homeschooling",
+      "phone":"584242112270",
+      "verified":true
+   },
+   "full_page_screenshot":{
+      "full_page_screenshot_url":"https://screenshot.static.insites.com/643b95da333afcad916ef6b542cf9387d96187dd/Desktop1280x960_Full/52e682449b2ade4978461c5431e7b4c6/2026-04-24/15-28-49.png"
+   },
+   "gemini_optimisation":{
+      "gemini_is_listing_claimed":false,
+      "gemini_is_listing_complete":false,
+      "gemini_is_listing_found":false,
+      "has_opening_hours":false,
+      "has_photos":false,
+      "has_reviews":false,
+      "is_crawlable":true,
+      "issues_found_count":1,
+      "review_count":0
+   },
+   "google_ads_readiness":{
+      "has_google_analytics":true,
+      "has_google_tag":false,
+      "is_google_ads_ready":false,
+      "uses_consent_mode":false,
+      "uses_consent_mode_advanced":false,
+      "uses_consent_mode_v2":false
+   },
+   "google_business_profile":{
+      "has_opening_hours":false,
+      "has_photos":false,
+      "has_reviews":false,
+      "is_listing_complete":false,
+      "is_listing_found":false,
+      "review_count":0,
+      "review_rating":0,
+      "service_area_business":false
+   },
+   "headings":{
+      "bad_headings_count":11,
+      "good_headings":true,
+      "has_content_for_every_heading":true,
+      "has_hierarchical_headings":false,
+      "has_single_h1_on_each_page":true,
+      "headings_count":166,
+      "homepage_h1_content":"Estudios en casa con certificación estadounidense",
+      "pages_missing_h1_count":0
+   },
+   "images":{
+      "image_count":368,
+      "non_web_friendly_count":1,
+      "percent_images_sized":51,
+      "stretched_image_count":0
+   },
+   "instagram_account":{
+      "has_instagram":true,
+      "instagram_link":"https://www.instagram.com/amahomeschooling/",
+      "instagram_links_to_placeholder_profile":false,
+      "instagram_username":"amahomeschooling"
+   },
+   "is_staging_site":false,
+   "last_updated":{
+      "days_since_update":116,
+      "last_updated_date":"2025-12-29T00:00:00+00:00"
+   },
+   "link_text":{
+      "percent_internal_links_with_problems":8.7
+   },
+   "linkedin":{
+      "has_linkedin":false,
+      "has_unconfirmed_linkedin":false
+   },
+   "listing_search_initialisation":{
+      "detected_city":"Charleston"
+   },
+   "local_grid":{
+      "business_data":[
+         
+      ],
+      "grid_data_key":"localgrid_643b95da333afcad916ef6b542cf9387d96187dd_58b1510d-f0f5-4d3f-940c-5e60f43c1430",
+      "grids_generated":0,
+      "has_gbp":false,
+      "keyword_metrics":[
+         
+      ],
+      "keywords_provided":true,
+      "latlng_provided":false,
+      "local_grid_keywords_checked":[
+         "talleres pedagógicos para homeschooling",
+         "currículo personalizado para educación en casa",
+         "evaluaciones de inteligencia para homeschooling"
+      ],
+      "main_place_id":"",
+      "ran_local_grid_test":false,
+      "spots_found_in":0,
+      "spots_missing_from":0
+   },
+   "local_pack":{
+      "location_was_provided":false,
+      "ranks_in_local_grid":false,
+      "terms_provided":true
+   },
+   "local_presence":{
+      "address_details_provided":true,
+      "business_city":"Charleston",
+      "business_name":"AMA Homeschooling Academy",
+      "business_phone":"8433037755",
+      "business_state":"SC",
+      "business_street":"6650 Rivers Avenue, STE 100",
+      "business_zip":"29406",
+      "detected_city":"Charleston",
+      "directories_checked":[
+         "YELLOWPAGESGOESGREEN",
+         "PROPERTYCAPSULE",
+         "TELLOWS",
+         "YPCOM",
+         "USCITYNET",
+         "OPENDI",
+         "N49CA",
+         "MYLOCALSERVICES",
+         "MERCHANTCIRCLE",
+         "MAPQUEST",
+         "8COUPONS",
+         "IBEGIN",
+         "SHOWMELOCAL",
+         "HOTFROG",
+         "AROUNDME",
+         "BROWNBOOKNET",
+         "IGLOBAL",
+         "CYLEX",
+         "WHERETO",
+         "TUPALO",
+         "BING",
+         "YELP",
+         "GOLOCAL247",
+         "EZLOCAL",
+         "CITYSQUARES",
+         "CHAMBEROFCOMMERCECOM",
+         "NAVMII",
+         "HOURSCOM"
+      ],
+      "directories_checked_count":30,
+      "directories_found":[
+         "USCITYNET",
+         "OPENDI",
+         "SHOWMELOCAL",
+         "HOTFROG",
+         "BROWNBOOKNET",
+         "CYLEX",
+         "YELP",
+         "CITYSQUARES",
+         "CHAMBEROFCOMMERCECOM"
+      ],
+      "directories_inconsistent":[
+         "YELLOWPAGESGOESGREEN",
+         "PROPERTYCAPSULE",
+         "TELLOWS",
+         "YPCOM",
+         "N49CA",
+         "MYLOCALSERVICES",
+         "MERCHANTCIRCLE",
+         "MAPQUEST",
+         "8COUPONS",
+         "IBEGIN",
+         "AROUNDME",
+         "BROWNBOOKNET",
+         "IGLOBAL",
+         "WHERETO",
+         "TUPALO",
+         "BING",
+         "YELP",
+         "GOLOCAL247",
+         "EZLOCAL",
+         "NAVMII",
+         "HOURSCOM"
+      ],
+      "directory_listings_check_failed":2,
+      "directory_listings_missing_count":19,
+      "inconsistent_address_listing_count":1,
+      "inconsistent_details_listing_count":2,
+      "inconsistent_name_listing_count":0,
+      "inconsistent_phone_listing_count":1,
+      "product_name":"Yext PowerListings",
+      "uses_powerlistings":true,
+      "yext_api_success":true
+   },
+   "local_presence_normalised":{
+      "business_city":"Charleston",
+      "business_name":"AMA Homeschooling Academy",
+      "business_phone":"8433037755",
+      "business_street":"6650 Rivers Avenue, STE 100",
+      "business_zip":"29406",
+      "check_success":true,
+      "datasets":{
+         "directories":[
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"YELLOWPAGESGOESGREEN"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"Property Capsule"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"tellows"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"YP.com"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"USCity.net"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"Opendi"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"n49"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"My Local Services"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"MerchantCircle"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"MapQuest"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"8coupons"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"iBegin"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue STE 100, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"ShowMeLocal"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"HotFrog"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"AroundMe"
+            },
+            {
+               "consistent":false,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":false,
+                     "text":"Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"Brownbook.net"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"iGlobal"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"Cylex"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"Check failed",
+               "name":"Facebook"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"Where To?"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"Tupalo"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"Bing"
+            },
+            {
+               "consistent":false,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Ave, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":false,
+                     "text":"8434054328"
+                  }
+               ],
+               "name":"Yelp"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"GoLocal247"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"EZlocal"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"CitySquares"
+            },
+            {
+               "consistent":true,
+               "found":true,
+               "info":[
+                  {
+                     "matching":true,
+                     "text":"AMA Homeschooling Academy"
+                  },
+                  {
+                     "matching":true,
+                     "text":"6650 Rivers Avenue, Charleston, SC, 29406"
+                  },
+                  {
+                     "displayAs":{
+                        "countryCode":"US",
+                        "type":"phone"
+                     },
+                     "matching":true,
+                     "text":"8433037755"
+                  }
+               ],
+               "name":"ChamberOfCommerce.com"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"Check failed",
+               "name":"Google"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"Navmii"
+            },
+            {
+               "consistent":false,
+               "found":false,
+               "info":"No listing found",
+               "name":"HOURSCOM"
+            }
+         ]
+      },
+      "directories_found_count":9,
+      "directories_tested_count":30,
+      "directories_with_inconsistencies_count":2,
+      "has_listings_product":true,
+      "product_name":"Yext PowerListings"
+   },
+   "location_pages":{
+      "actual_landing_pages":0,
+      "duplicate_content":false,
+      "expected_landing_pages":0,
+      "landing_pages_optimised":true,
+      "locations_provided":false
+   },
+   "logo":{
+      "has_detected_logo":true,
+      "logo_url":"https://cdn.prod.website-files.com/62e44266f602e2608358c349/6499bdc6b805ef2f71f79321_logo.svg"
+   },
+   "meta":{
+      "analysis_country":"US",
+      "curtailed":false,
+      "detected_address":"6650 Rivers Avenue, STE 100, Charleston, SC, 29406",
+      "detected_name":"AMA Homeschooling Academy",
+      "detected_phone":"8433037755",
+      "is_lead_gen":false,
+      "live_report_id":null,
+      "proxy_used":"us",
+      "report_completed_at":"2026-04-24T15:29:29+0000",
+      "requested_by":"api-user"
+   },
+   "mobile":{
+      "has_horizontal_scroll":false,
+      "has_mobile_site":true,
+      "has_pages_with_flash":false,
+      "has_small_links":false,
+      "has_small_text":false,
+      "has_viewport_optimised_for_mobile":true,
+      "is_mobile":true,
+      "is_tablet":true,
+      "mobile_screenshot_url":"https://screenshot.static.insites.com/643b95da333afcad916ef6b542cf9387d96187dd/Mobile/2026-04-24/15-28-48.png",
+      "mobile_site_url":"",
+      "tablet_screenshot_url":"https://screenshot.static.insites.com/643b95da333afcad916ef6b542cf9387d96187dd/Desktop1280x960/2026-04-24/15-28-49.png"
+   },
+   "no_business_website_found":false,
+   "open_graph":{
+      "has_complete_og_tags":false,
+      "has_complete_og_tags_all_pages":false,
+      "has_og_tags":true,
+      "homepage_og_tags":{
+         "description":"AMA Homeschooling Academy ofrece certificación de estudios en casa desde kinder a bachillerato con currículo personalizado y acompañamiento para padres.",
+         "display_url":"www.amahomeschooling.com",
+         "link_text":null,
+         "title":"Certificación de Estudios en Casa | AMA Homeschooling Academy"
+      }
+   },
+   "organic_search":{
+      "average_monthly_traffic":6,
+      "average_target_keyword_position":1,
+      "best_keyword_opportunities":[
+         {
+            "monthly_queries_for_term":30,
+            "num_results_for_term":11500000,
+            "position":92,
+            "position_change":0,
+            "previous_position":92,
+            "term":"como hacer homeschool en usa"
+         },
+         {
+            "monthly_queries_for_term":140,
+            "num_results_for_term":53000000,
+            "position":84,
+            "position_change":0,
+            "previous_position":84,
+            "term":"educacion especializada"
+         },
+         {
+            "monthly_queries_for_term":40,
+            "num_results_for_term":26200000,
+            "position":83,
+            "position_change":0,
+            "previous_position":83,
+            "term":"homeschooling in mexico"
+         },
+         {
+            "monthly_queries_for_term":50,
+            "num_results_for_term":0,
+            "position":80,
+            "position_change":0,
+            "previous_position":80,
+            "term":"edward castillo padres"
+         },
+         {
+            "monthly_queries_for_term":50,
+            "num_results_for_term":109,
+            "position":73,
+            "position_change":0,
+            "previous_position":73,
+            "term":"escuela en casa gratis"
+         }
+      ],
+      "best_target_keyword_position":1,
+      "num_keywords_ranked_for":30,
+      "rank_history_data":"{\"Apr 2025\":3,\"May 2025\":7,\"Jun 2025\":8,\"Jul 2025\":2,\"Aug 2025\":11,\"Sep 2025\":11,\"Oct 2025\":11,\"Nov 2025\":11,\"Dec 2025\":10,\"Jan 2026\":10,\"Feb 2026\":6,\"Mar 2026\":6}",
+      "rank_history_title":"Estimated organic traffic for last 12 months",
+      "rank_history_values_title":"Visitors",
+      "rank_history_y_axis":"Estimated visitors",
+      "ranks_for_target_keywords":true,
+      "target_keywords_detail":[
+         {
+            "position":6,
+            "term":"talleres pedagógicos para homeschooling"
+         },
+         {
+            "position":0,
+            "term":"currículo personalizado para educación en casa"
+         },
+         {
+            "position":6,
+            "term":"evaluaciones de inteligencia para homeschooling"
+         },
+         {
+            "position":1,
+            "term":"homeschooling con certificación estadounidense"
+         },
+         {
+            "position":0,
+            "term":"recursos educativos gratuitos para homeschooling"
+         }
+      ],
+      "target_keywords_provided":true,
+      "top_keywords_ranked_for":[
+         "logosklogos",
+         "homeschooling en español",
+         "escuela en casa en estados unidos",
+         "escuela en casa en estados unidos",
+         "escuela en casa en estados unidos"
+      ],
+      "top_keywords_ranked_for_detail":[
+         {
+            "monthly_queries_for_term":720,
+            "num_results_for_term":109000,
+            "position":9,
+            "position_change":0,
+            "previous_position":9,
+            "term":"logosklogos"
+         },
+         {
+            "monthly_queries_for_term":110,
+            "num_results_for_term":34800000,
+            "position":2,
+            "position_change":0,
+            "previous_position":2,
+            "term":"homeschooling en español"
+         },
+         {
+            "monthly_queries_for_term":50,
+            "num_results_for_term":115,
+            "position":11,
+            "position_change":0,
+            "previous_position":11,
+            "term":"escuela en casa en estados unidos"
+         },
+         {
+            "monthly_queries_for_term":50,
+            "num_results_for_term":115,
+            "position":53,
+            "position_change":0,
+            "previous_position":53,
+            "term":"escuela en casa en estados unidos"
+         },
+         {
+            "monthly_queries_for_term":50,
+            "num_results_for_term":115,
+            "position":72,
+            "position_change":0,
+            "previous_position":72,
+            "term":"escuela en casa en estados unidos"
+         }
+      ],
+      "translated_rank_history_data":"{\"Apr 2025\":3,\"May 2025\":7,\"Jun 2025\":8,\"Jul 2025\":2,\"Aug 2025\":11,\"Sep 2025\":11,\"Oct 2025\":11,\"Nov 2025\":11,\"Dec 2025\":10,\"Jan 2026\":10,\"Feb 2026\":6,\"Mar 2026\":6}"
+   },
+   "overall_score":59,
+   "page_count":{
+      "pages_discovered":[
+         "www.amahomeschooling.com/pasos-para-empezar/",
+         "www.amahomeschooling.com/",
+         "www.amahomeschooling.com/homeschooling/",
+         "www.amahomeschooling.com/educacion-especializada/",
+         "www.amahomeschooling.com/libreria/",
+         "www.amahomeschooling.com/librerias/ciencias/",
+         "www.amahomeschooling.com/librerias/cuentos/",
+         "www.amahomeschooling.com/librerias/emociones/",
+         "www.amahomeschooling.com/librerias/escritura/",
+         "www.amahomeschooling.com/librerias/evaluaciones/",
+         "www.amahomeschooling.com/librerias/inteligencia/",
+         "www.amahomeschooling.com/librerias/lectura/",
+         "www.amahomeschooling.com/librerias/lenguaje/",
+         "www.amahomeschooling.com/librerias/matematica/",
+         "www.amahomeschooling.com/librerias/sociales/",
+         "www.amahomeschooling.com/librerias/webs-de-apoyo/",
+         "www.amahomeschooling.com/talleres/",
+         "www.amahomeschooling.com/blog/",
+         "www.amahomeschooling.com/calendarios/",
+         "www.amahomeschooling.com/tarifas/",
+         "www.amahomeschooling.com/preguntas-frecuentes/",
+         "www.amahomeschooling.com/contacto/",
+         "www.amahomeschooling.com/ana-hernandez/",
+         "www.amahomeschooling.com/libreria/contenido/la-luz-brillante-y-la-oscuridad-tenebrosa-de-bh-ninos-libros-cristianos-para-ninos/",
+         "www.amahomeschooling.com/libreria/contenido/en-el-arca-de-noe-pixelado-i/",
+         "www.amahomeschooling.com/libreria/contenido/cuentos-cortos-para-lectura-comprensiva-i/",
+         "www.amahomeschooling.com/libreria/contenido/conociendo-el-reloj-parte-1/",
+         "www.amahomeschooling.com/libreria/contenido/ejercicios-para-repeticion-de-acciones/",
+         "www.amahomeschooling.com/libreria/contenido/taller-para-el-desarrollo-de-las-funciones-ejecutivas/",
+         "www.amahomeschooling.com/libreria/contenido/me-ayudas-gatito/",
+         "www.amahomeschooling.com/sobre-nosotros/",
+         "www.amahomeschooling.com/blog-posts/es-legal-el-homeschooling-en-tu-pais-situacion-a-nivel-mundial/",
+         "www.amahomeschooling.com/blog-posts/evaluacion-formativa-guia-para-evaluar-a-tu-hijo-haciendo-homeschooling/",
+         "www.amahomeschooling.com/blog-posts/los-reforzadores-verbales-y-premios-roban-el-placer-a-tu-hijo-a/",
+         "www.amahomeschooling.com/blog-posts/es-tu-hijo-a-adicto-a-a-los-reforzadores-y-premios/",
+         "www.amahomeschooling.com/blog-posts/control-azucarado/",
+         "www.amahomeschooling.com/blog-posts/aprendizaje-basado-en-proyectos/",
+         "www.amahomeschooling.com/blog-posts/la-evaluacion-educativa-dentro-del-homeschooling/",
+         "www.amahomeschooling.com/blog-posts/mi-hogar-montessori/",
+         "www.amahomeschooling.com/blog-posts/el-modelo-eclectico-en-el-homeschooling/",
+         "www.amahomeschooling.com/blog-posts/modelos-de-homeschooling-desescolarizacion/",
+         "www.amahomeschooling.com/blog-posts/modelos-de-homeschooling/",
+         "www.amahomeschooling.com/blog-posts/guia-para-hacer-homeschooling-desde-cero/",
+         "www.amahomeschooling.com/blog-posts/que-es-homeschooling/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-1-hijo/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-2-hijos/",
+         "www.amahomeschooling.com/tarifas/homeschooling-sin-acompanamiento-3-hijos/",
+         "www.amahomeschooling.com/tarifas/homeschooling-sin-acompanamiento-4-hijos/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-1-hijo-1-mes-de-acompanamiento/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-2-hijos-1-mes-de-acompanamiento/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-3-hijos-1-mes-de-acompanamiento/",
+         "www.amahomeschooling.com/tarifas/certificacion-de-estudios-en-casa-para-4-hijos-1-mes-de-acompanamiento/",
+         "www.amahomeschooling.com/tarifas/acompanamiento-de-estudios-en-casa/",
+         "www.amahomeschooling.com/tarifas/acompanamiento-de-estudios-en-casa-para-2-hijos/",
+         "www.amahomeschooling.com/tarifas/acompanamiento-de-estudios-en-casa-para-3-hijos/",
+         "www.amahomeschooling.com/tarifas/acompanamiento-de-estudios-en-casa-para-4-hijos/",
+         "www.amahomeschooling.com/tarifas/intervencion/",
+         "www.amahomeschooling.com/tarifas/membresia-anual/",
+         "www.amahomeschooling.com/tarifas/membresia-mensual/",
+         "www.amahomeschooling.com/libreria/contenido/ejercicios-para-jugar-y-pensar/",
+         "www.amahomeschooling.com/libreria/contenido/programa-de-musica-para-la-ninez/",
+         "www.amahomeschooling.com/libreria/contenido/plantillas-para-ensenar-musica-pequeno-mozart/",
+         "www.amahomeschooling.com/libreria/contenido/cuadernillo-de-trabajos-para-musica-para-media-y-superior/",
+         "www.amahomeschooling.com/libreria/contenido/cuaderno-de-actividades-de-musica-para-primaria-de-malaga/",
+         "www.amahomeschooling.com/libreria/contenido/libros-digitales-santillana-en-formato-pdf-de-republica-dominicana-oc497/",
+         "www.amahomeschooling.com/libreria/contenido/aprender-portugues-para-ninos/",
+         "www.amahomeschooling.com/libreria/contenido/lecciones-para-aprender-a-leer/",
+         "www.amahomeschooling.com/libreria/contenido/curriculo-para-bachillerato-en-ciencia-y-tecnologia-de-venezuela/",
+         "www.amahomeschooling.com/libreria/contenido/dia-de-la-patria-republica-dominicana/",
+         "www.amahomeschooling.com/libreria/contenido/polypad-todo-en-matematicas/",
+         "www.amahomeschooling.com/libreria/contenido/estandares-de-carolina-de-sur-para-matematica-ciencias-y-espanol/",
+         "www.amahomeschooling.com/libreria/contenido/recursos-biblicos-en-pdf-por-grado/",
+         "www.amahomeschooling.com/libreria/contenido/cuento-willy-el-timido/",
+         "www.amahomeschooling.com/libreria/contenido/cuento-de-viajeros-objetivo-polo-norte/",
+         "www.amahomeschooling.com/libreria/contenido/programa-de-estimulacion-cognitiva-pienso-6/",
+         "www.amahomeschooling.com/libreria/contenido/escuela-de-ingles-online-para-ninos-novakids/",
+         "www.amahomeschooling.com/libreria/contenido/diseno-curricular-del-nivel-secundario-de-republica-dominicana-2016/",
+         "www.amahomeschooling.com/talleres-intro/abp/",
+         "www.amahomeschooling.com/talleres-intro/iniciacion-al-homeschooling-i/",
+         "www.amahomeschooling.com/talleres-intro/iniciacion-al-homeschooling-ii/",
+         "www.amahomeschooling.com/talleres-intro/iniciacion-al-homeschooling-iii/",
+         "www.amahomeschooling.com/talleres-intro/mi-hogar-montessori/",
+         "www.amahomeschooling.com/talleres-intro/perfil-del-padre-madre-educador/",
+         "www.amahomeschooling.com/talleres-intro/perfil-del-padre-madre-evaluador/"
+      ],
+      "pages_discovered_count":84
+   },
+   "page_errors":{
+      "has_errors":false
+   },
+   "page_titles_and_descriptions":{
+      "duplicated_items":false,
+      "homepage_meta_description":"AMA Homeschooling Academy ofrece certificación de estudios en casa desde kinder a bachillerato con currículo personalizado y acompañamiento para padres.",
+      "homepage_title_tag":"Certificación de Estudios en Casa | AMA Homeschooling Academy",
+      "max_description_length":158,
+      "max_title_length":60,
+      "min_description_length":0,
+      "missing_items":true,
+      "pages_duplicated_description_count":0,
+      "pages_duplicated_title_count":0,
+      "pages_missing_description_count":1,
+      "pages_missing_title_count":0,
+      "percent_duplicated_descriptions":0,
+      "percent_duplicated_titles":0,
+      "percent_missing_descriptions":10,
+      "percent_missing_titles":0,
+      "titles_or_descriptions_bad_length":true
+   },
+   "paid_search":{
+      "adwords_keywords":[
+         
+      ],
+      "has_adplorer":false,
+      "has_adwords_spend":false
+   },
+   "parked_domain_detection":{
+      "is_parked":false
+   },
+   "pinterest":{
+      "has_pinterest":false,
+      "has_unconfirmed_pinterest":false
+   },
+   "report_id":"643b95da333afcad916ef6b542cf9387d96187dd",
+   "request_information":{
+      "user_parameters":{
+         "address":"6650 Rivers Avenue, STE 100",
+         "city":"Charleston",
+         "country_code":"US",
+         "domain_url":"https://www.amahomeschooling.com/",
+         "industries":"",
+         "locations":"",
+         "name":"AMA Homeschooling Academy",
+         "phone":"8433037755",
+         "products":"",
+         "starred_locations":"",
+         "starred_target_keywords":"talleres pedagógicos para homeschooling,currículo personalizado para educación en casa,evaluaciones de inteligencia para homeschooling,Homeschooling con certificación estadounidense,recursos educativos gratuitos para homeschooling",
+         "state":"SC",
+         "target_keywords":"talleres pedagógicos para homeschooling,currículo personalizado para educación en casa,evaluaciones de inteligencia para homeschooling,Homeschooling con certificación estadounidense,recursos educativos gratuitos para homeschooling,acompañamiento pedagógico para padres educadores,apoyo emocional y educacional para estudiantes,certificación de estudios en casa,intervención educativa especializada,librería educativa online",
+         "zip":"29406"
+      }
+   },
+   "review_integration":{
+      "has_reviews_integration":false
+   },
+   "reviews":{
+      "average_review":0,
+      "facebook_average_rating":"0",
+      "google_average_rating":"0",
+      "reviews_found_count":0
+   },
+   "reviews_normalised":{
+      "average_review":0,
+      "datasets":{
+         "reviews":[
+            {
+               "average_review":0,
+               "found_reviews":false,
+               "name":"Facebook",
+               "reviews_found_count":0
+            },
+            {
+               "average_review":0,
+               "found_reviews":false,
+               "name":"Bing",
+               "reviews_found_count":0
+            },
+            {
+               "average_review":0,
+               "found_reviews":false,
+               "name":"GoogleMaps",
+               "reviews_found_count":0
+            }
+         ]
+      },
+      "reviews_found_count":0
+   },
+   "server_behaviour":{
+      "error_page_sends_404":true,
+      "has_ssl":true,
+      "is_subdomain":false,
+      "missing_www_redirect":false,
+      "uses_brotli_compression":true,
+      "uses_gzip_compression":true,
+      "www_duplicate_content":false
+   },
+   "sitemap":{
+      "has_sitemap":true,
+      "sitemap_issues":false
+   },
+   "ssl":{
+      "has_hsts":true,
+      "has_ssl":true,
+      "mixed_content":false,
+      "page_issues":null,
+      "ssl_expired":false,
+      "ssl_redirect":true,
+      "ssl_valid":true
+   },
+   "stale_analysis":false,
+   "technology_detection":{
+      "detected_technologies":"webflow, whatsapp business chat, core-js, google font script, jsdelivr, jquery, hsts, google hosted libraries, google font api, google analytics, cloudflare, open graph, webpack, http/3, recaptcha, cloudflare turnstile",
+      "technology_categories":[
+         "Page builders",
+         "Live chat",
+         "JavaScript libraries",
+         "Font scripts",
+         "CDN",
+         "Security",
+         "Analytics",
+         "Miscellaneous"
+      ]
+   },
+   "technology_profile":{
+      "has_impressum":false
+   },
+   "user_team_id":10429,
+   "version_id":"643b95da333afcad916ef6b542cf9387d96187dd_2026-04-24T15:29:29",
+   "video":{
+      "has_video":false
+   },
+   "voice_search":{
+      "has_result":true,
+      "is_voice_search_optimised":false,
+      "voice_assistants_complete":[
+         
+      ],
+      "voice_assistants_found":[
+         
+      ],
+      "voice_assistants_tested":[
+         "google_assistant",
+         "siri"
+      ]
+   },
+   "web_vitals":{
+      "core_web_vitals_pass":false,
+      "cumulative_layout_shift":0,
+      "cumulative_layout_shift_band":"good",
+      "first_input_delay":168,
+      "first_input_delay_band":"average",
+      "largest_contentful_paint":25,
+      "largest_contentful_paint_band":"bad",
+      "lighthouse_blocked":false,
+      "lighthouse_device":"mobile",
+      "lighthouse_success":true,
+      "lighthouse_throttle":"mobileSlow4G"
+   },
+   "website_screenshot":{
+      "desktop_screenshot_url":"https://screenshot.static.insites.com/643b95da333afcad916ef6b542cf9387d96187dd/Desktop1280x960/2026-04-24/15-28-49.png",
+      "mobile_screenshot_url":"https://screenshot.static.insites.com/643b95da333afcad916ef6b542cf9387d96187dd/Mobile/2026-04-24/15-28-48.png"
+   },
+   "website_speed":{
+      "estimated_input_latency":0,
+      "first_contentful_paint":2.368,
+      "first_contentful_paint_band":"average",
+      "first_cpu_idle":0,
+      "first_meaningful_paint":0,
+      "first_meaningful_paint_band":"",
+      "largest_contentful_paint":25.023,
+      "largest_contentful_paint_band":"bad",
+      "lighthouse_blocked":false,
+      "lighthouse_success":true,
+      "performance_score":55,
+      "performance_score_band":"average",
+      "server_response_time":46.099,
+      "speed_index":6.109,
+      "speed_index_band":"bad"
+   },
+   "youtube":{
+      "has_unconfirmed_youtube":false,
+      "has_youtube":false
+   }
+}

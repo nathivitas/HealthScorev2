@@ -1,0 +1,31 @@
+# Environment variables
+.env
+
+# Generated output folders
+audit_output/
+webhook_output/
+sagemaker_hotfix_stress_*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# AWS credentials
+.aws/
+
+# Virtual environments
+venv/
+.venv/

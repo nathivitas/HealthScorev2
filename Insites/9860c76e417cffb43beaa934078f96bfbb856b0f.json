@@ -1,0 +1,883 @@
+{
+  "accessibility": {
+    "accessibility_check_success": true,
+    "accessibility_widgets": "UserWay",
+    "has_accessibility_widget": true,
+    "has_issues_despite_widget": false,
+    "wcag_a_checkpoints_available_count": 56,
+    "wcag_a_checkpoints_failed_count": 2,
+    "wcag_a_issues_count": 3,
+    "wcag_a_potential_checkpoints_failed_count": 1,
+    "wcag_a_potential_issues_count": 1,
+    "wcag_aa_checkpoints_available_count": 8,
+    "wcag_aa_checkpoints_failed_count": 7,
+    "wcag_aa_issues_count": 28,
+    "wcag_aa_potential_checkpoints_failed_count": 2,
+    "wcag_aa_potential_issues_count": 3,
+    "wcag_aaa_checkpoints_available_count": 0,
+    "wcag_aaa_checkpoints_failed_count": 7,
+    "wcag_aaa_issues_count": 28,
+    "wcag_aaa_potential_checkpoints_failed_count": 2,
+    "wcag_aaa_potential_issues_count": 3,
+    "wcag_guidelines_percent_complete": 95,
+    "wcag_level": "a",
+    "wcag_version": "WCAG 2.0"
+  },
+  "account_id": "thryv_us_sandbox",
+  "ai_readiness": {
+    "ai_has_run": true,
+    "ai_issue_count": 3,
+    "ai_user_agents_allowed": true,
+    "content_recently_updated": true,
+    "faq_structured_data_found": false,
+    "is_ai_optimised": false,
+    "is_partially_ai_optimised": true,
+    "is_path_based_site": false,
+    "llms_txt_found": false,
+    "local_structured_data_found": false,
+    "reading_difficulty_optimised": true,
+    "sitemap_found": true,
+    "website_has_enough_content": false,
+    "website_has_enough_pages": false
+  },
+  "alternative_text": {
+    "alt_issues_count": 14,
+    "count_missing_alt_link": 1,
+    "images_no_alt_count": 0,
+    "images_requiring_alt_found": true,
+    "number_empty_alt": 14,
+    "percentage_has_alt": 100
+  },
+  "amount_of_content": {
+    "average_visible_words_per_page": 86,
+    "average_words_per_page": 390,
+    "num_pages_thin_content": 7,
+    "pages_found": 18,
+    "pages_tested": 8,
+    "total_visible_word_count": 686,
+    "total_word_count": 3117
+  },
+  "analysed_page_count": 10,
+  "backlinks": {
+    "backlinks_check_success": true,
+    "has_spammy_backlinks": true,
+    "total_backlinks": 1,
+    "total_websites_linking": 1
+  },
+  "blog": {
+    "blog_post_count": "000000000000004",
+    "has_blog": true
+  },
+  "booking_widget": {
+    "has_booking_widget": false,
+    "problem_detecting_booking_widget": false
+  },
+  "broken_links": {
+    "links_analysed_count": 23,
+    "links_broken_count": 0,
+    "links_discovered_count": 35
+  },
+  "built_by_us": {
+    "is_own_vendor": false
+  },
+  "categories": [
+    {
+      "label": "Website Engagement",
+      "score": 67,
+      "sections": [
+        "booking_widget",
+        "click_to_contact",
+        "contact_details"
+      ]
+    },
+    {
+      "label": "Website Performance",
+      "score": 89,
+      "sections": [
+        "last_updated",
+        "technology_profile",
+        "website_speed",
+        "mobile",
+        "sitemap",
+        "images",
+        "ssl"
+      ]
+    },
+    {
+      "label": "Social",
+      "score": 78,
+      "sections": [
+        "facebook_page",
+        "instagram_account",
+        "youtube",
+        "pinterest",
+        "linkedin",
+        "blog"
+      ]
+    },
+    {
+      "label": "AI Search",
+      "score": 62,
+      "sections": [
+        "ai_readiness",
+        "chatgpt",
+        "gemini_optimisation"
+      ]
+    },
+    {
+      "label": "SEO",
+      "score": 70,
+      "sections": [
+        "local_grid",
+        "organic_search",
+        "content_keywords",
+        "location_pages",
+        "page_titles_and_descriptions",
+        "headings",
+        "backlinks",
+        "broken_links",
+        "review_integration",
+        "alternative_text"
+      ]
+    },
+    {
+      "label": "Online Presence",
+      "score": 0,
+      "sections": [
+        "google_business_profile",
+        "local_presence",
+        "reviews",
+        "voice_search"
+      ]
+    },
+    {
+      "label": "Potential Active Ads",
+      "score": 0,
+      "sections": [
+        "google_ads_readiness",
+        "facebook_ads",
+        "paid_search"
+      ]
+    }
+  ],
+  "ccpa": {
+    "has_dont_sell_info_link": true,
+    "has_forms_missing_purpose_info": true,
+    "has_method_to_submit_data_requests": true,
+    "has_potential_ccpa_compliance_issues": true,
+    "has_privacy_policy": false
+  },
+  "chatgpt": {
+    "missing_required_data": true,
+    "ran_gpt_v2_test": false
+  },
+  "click_to_contact": {
+    "email_links_found_count": 5,
+    "tel_links_found_count": 0
+  },
+  "code_quality": {
+    "pages_containing_non_semantic_elements_count": 0,
+    "pages_table_layout_count": 0
+  },
+  "colour_contrast": {
+    "colour_contrast_issue_count": 0,
+    "has_colour_contrast_issues": true
+  },
+  "colour_scheme": {
+    "primary_accent_colour": "#00848E",
+    "primary_background_colour": "#D5F3F3",
+    "primary_text_colour": "#230051",
+    "secondary_accent_colour": "#230051",
+    "secondary_background_colour": "#000000",
+    "secondary_text_colour": "#FFFFFF"
+  },
+  "contact_details": {
+    "emails": [
+      "rene@mysnapboard.com",
+      "myteam@mysnapboard.com",
+      "mymarketing@mysnapboard.com",
+      "myevents@mysnapboard.com",
+      "mypr@mysnapboard.com",
+      "rene@mysnapbaord.com"
+    ],
+    "phones": []
+  },
+  "content_keywords": {
+    "has_areas_without_keywords": false,
+    "has_keywords_not_mentioned": true,
+    "keyword_density_checked": true,
+    "keywords_provided": true
+  },
+  "custom_fields": {
+    "correlation_id": "00QV500000ZV8MyMAL",
+    "eaid": "BSFZ6362",
+    "email": "david.miller-pomlee@thryv.com",
+    "initiation_source": "marketing_center",
+    "txn_id": "c367d515-8f5e-4739-9fe5-f90033825309"
+  },
+  "domain": "mysnapboard.com",
+  "ecommerce": {
+    "ecommerce_name": "Cart Functionality",
+    "has_ecommerce": true,
+    "payment_processors_list": "Visa, PayPal, Mastercard, Google Pay, Apple Pay, American Express, Amazon Pay"
+  },
+  "event": "post_attribute_store",
+  "facebook_ads": {
+    "fb_ad_library_url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&search_type=page&sort_data[mode]=total_impressions&sort_data[direction]=desc&view_all_page_id=159336963939544",
+    "fb_ads_adplorer": false,
+    "fb_ads_currently_active": 0,
+    "fb_ads_error": false,
+    "fb_ads_error_fb_page_not_found": false,
+    "fb_ads_error_fb_test_not_enabled": false,
+    "fb_ads_total": 0
+  },
+  "facebook_page": {
+    "days_since_last_post": "000000000000001",
+    "error": false,
+    "fb_info_unavailable": false,
+    "fb_link_missing": true,
+    "fb_links_to_placeholder_profile": false,
+    "found": true,
+    "image": "https://graph.facebook.com/159336963939544/picture?type=large",
+    "page_follows": 2200,
+    "page_id": "159336963939544",
+    "page_likes": 2237,
+    "page_link": "https://www.facebook.com/mysnapboard",
+    "page_name": "SNAP, The Customizable COLD Snackboard",
+    "phone": "12057122506",
+    "verified": true
+  },
+  "full_page_screenshot": {
+    "full_page_screenshot_url": "https://screenshot.static.insites.com/9860c76e417cffb43beaa934078f96bfbb856b0f/Desktop1280x960_Full/830acdefb41086d4a9ea0442d5081018/2026-05-06/17-03-20.png"
+  },
+  "gemini_optimisation": {
+    "gemini_is_listing_claimed": false,
+    "gemini_is_listing_complete": false,
+    "gemini_is_listing_found": false,
+    "has_opening_hours": false,
+    "has_photos": false,
+    "has_reviews": false,
+    "is_crawlable": true,
+    "issues_found_count": 1,
+    "review_count": 0
+  },
+  "google_ads_readiness": {
+    "has_google_analytics": false,
+    "has_google_tag": false,
+    "is_google_ads_ready": false,
+    "uses_consent_mode": false,
+    "uses_consent_mode_advanced": false,
+    "uses_consent_mode_v2": false
+  },
+  "google_business_profile": {
+    "has_opening_hours": false,
+    "has_photos": false,
+    "has_reviews": false,
+    "is_listing_complete": false,
+    "is_listing_found": false,
+    "review_count": 0,
+    "review_rating": 0,
+    "service_area_business": false
+  },
+  "headings": {
+    "bad_headings_count": 6,
+    "good_headings": false,
+    "has_content_for_every_heading": true,
+    "has_hierarchical_headings": false,
+    "has_single_h1_on_each_page": false,
+    "headings_count": 42,
+    "homepage_h1_content": "\n  \n    ",
+    "pages_missing_h1_count": 4
+  },
+  "images": {
+    "image_count": 66,
+    "non_web_friendly_count": 0,
+    "percent_images_sized": 61,
+    "stretched_image_count": 0
+  },
+  "instagram_account": {
+    "has_instagram": true,
+    "instagram_link": "https://www.instagram.com/mysnapboard/",
+    "instagram_links_to_placeholder_profile": false,
+    "instagram_username": "mysnapboard"
+  },
+  "is_staging_site": false,
+  "last_updated": {
+    "days_since_update": 0,
+    "last_updated_date": "2026-05-06T00:00:00+00:00"
+  },
+  "link_text": {
+    "percent_internal_links_with_problems": 5
+  },
+  "linkedin": {
+    "has_linkedin": false,
+    "has_unconfirmed_linkedin": false
+  },
+  "local_grid": {
+    "business_data": [],
+    "grid_data_key": "localgrid_9860c76e417cffb43beaa934078f96bfbb856b0f_ca60ec7f-a52c-4c69-ade8-3af7eb7df5dd",
+    "grids_generated": 0,
+    "has_gbp": false,
+    "keyword_metrics": [],
+    "keywords_provided": true,
+    "latlng_provided": false,
+    "local_grid_keywords_checked": [
+      "cold snackboard",
+      "customizable cold snackboard",
+      "entertaining accessories"
+    ],
+    "main_place_id": "",
+    "ran_local_grid_test": false,
+    "spots_found_in": 0,
+    "spots_missing_from": 0
+  },
+  "local_pack": {
+    "location_was_provided": false,
+    "ranks_in_local_grid": false,
+    "terms_provided": true
+  },
+  "local_presence": {
+    "address_details_provided": false,
+    "yext_api_success": false
+  },
+  "local_presence_normalised": {
+    "business_city": false,
+    "business_name": false,
+    "business_phone": false,
+    "business_street": false,
+    "business_zip": false,
+    "check_success": false,
+    "datasets": {
+      "directories": []
+    },
+    "directories_found_count": false,
+    "directories_tested_count": false,
+    "directories_with_inconsistencies_count": false,
+    "has_listings_product": false,
+    "product_name": false
+  },
+  "location_pages": {
+    "actual_landing_pages": 0,
+    "duplicate_content": false,
+    "expected_landing_pages": 0,
+    "landing_pages_optimised": true,
+    "locations_provided": false
+  },
+  "logo": {
+    "has_detected_logo": false
+  },
+  "meta": {
+    "analysis_country": "US",
+    "curtailed": false,
+    "detected_address": "",
+    "detected_name": "My Snapoard, Llc.",
+    "detected_phone": "2057122506",
+    "is_lead_gen": false,
+    "live_report_id": null,
+    "proxy_used": "none",
+    "report_completed_at": "2026-05-06T17:03:37+0000",
+    "requested_by": "api-user"
+  },
+  "mobile": {
+    "has_horizontal_scroll": false,
+    "has_mobile_site": false,
+    "has_pages_with_flash": false,
+    "has_small_links": false,
+    "has_small_text": false,
+    "has_viewport_optimised_for_mobile": true,
+    "is_mobile": true,
+    "is_tablet": true,
+    "mobile_screenshot_url": "https://screenshot.static.insites.com/9860c76e417cffb43beaa934078f96bfbb856b0f/Mobile/2026-05-06/17-03-19.png",
+    "mobile_site_url": "",
+    "tablet_screenshot_url": "https://screenshot.static.insites.com/9860c76e417cffb43beaa934078f96bfbb856b0f/Desktop1280x960/2026-05-06/17-03-20.png"
+  },
+  "no_business_website_found": false,
+  "open_graph": {
+    "has_complete_og_tags": true,
+    "has_complete_og_tags_all_pages": true,
+    "has_og_tags": true,
+    "homepage_og_tags": {
+      "description": "Level up your snack game – freeze, snap, and share! SNAP! uses a non-toxic refrigerant encapsulated in a plastic pouch, that is then sealed inside the board for the life of the board. The package of refrigerant is a block of rigid foam that holds it’s shape frozen or thawed and, unless the board or plastic packaging i",
+      "display_url": "mysnapboard.com",
+      "image": "http://mysnapboard.com/cdn/shop/files/4K4A8237_c2195a34-ec56-438a-9967-f4e51afcf351_1200x1200.jpg?v=1756844800",
+      "link_text": "My Snapboard",
+      "title": "SNAP | The Worlds First Cold, Fully Customizable Snackboard",
+      "url": "https://mysnapboard.com/"
+    }
+  },
+  "organic_search": {
+    "average_monthly_traffic": 16,
+    "average_target_keyword_position": 1,
+    "best_keyword_opportunities": [
+      {
+        "monthly_queries_for_term": 110,
+        "num_results_for_term": 347000000,
+        "position": 62,
+        "position_change": 0,
+        "previous_position": 62,
+        "term": "snap board"
+      },
+      {
+        "monthly_queries_for_term": 90,
+        "num_results_for_term": 35900,
+        "position": 50,
+        "position_change": 0,
+        "previous_position": 50,
+        "term": "snapboard"
+      },
+      {
+        "monthly_queries_for_term": 90,
+        "num_results_for_term": 35900,
+        "position": 15,
+        "position_change": 0,
+        "previous_position": 15,
+        "term": "snapboard"
+      },
+      {
+        "monthly_queries_for_term": 110,
+        "num_results_for_term": 347000000,
+        "position": 12,
+        "position_change": 0,
+        "previous_position": 12,
+        "term": "snap board"
+      },
+      {
+        "monthly_queries_for_term": 90,
+        "num_results_for_term": 35900,
+        "position": 3,
+        "position_change": 0,
+        "previous_position": 3,
+        "term": "snapboard"
+      }
+    ],
+    "best_target_keyword_position": 1,
+    "num_keywords_ranked_for": 4,
+    "rank_history_data": "{\"Apr 2025\":0,\"May 2025\":0,\"Jun 2025\":0,\"Jul 2025\":0,\"Aug 2025\":0,\"Sep 2025\":0,\"Oct 2025\":0,\"Nov 2025\":9,\"Dec 2025\":11,\"Jan 2026\":11,\"Feb 2026\":16,\"Mar 2026\":16}",
+    "rank_history_title": "Estimated organic traffic for last 12 months",
+    "rank_history_values_title": "Visitors",
+    "rank_history_y_axis": "Estimated visitors",
+    "ranks_for_target_keywords": true,
+    "target_keywords_detail": [
+      {
+        "position": 1,
+        "term": "cold snackboard"
+      },
+      {
+        "position": 1,
+        "term": "customizable cold snackboard"
+      },
+      {
+        "position": 0,
+        "term": "entertaining accessories"
+      },
+      {
+        "position": 0,
+        "term": "food safe snack serving solutions"
+      },
+      {
+        "position": 0,
+        "term": "snackboard accessories"
+      }
+    ],
+    "target_keywords_provided": true,
+    "top_keywords_ranked_for": [
+      "snap board",
+      "snapboard",
+      "snap board",
+      "snap board",
+      "snapboard"
+    ],
+    "top_keywords_ranked_for_detail": [
+      {
+        "monthly_queries_for_term": 110,
+        "num_results_for_term": 347000000,
+        "position": 1,
+        "position_change": 0,
+        "previous_position": 1,
+        "term": "snap board"
+      },
+      {
+        "monthly_queries_for_term": 90,
+        "num_results_for_term": 35900,
+        "position": 3,
+        "position_change": 0,
+        "previous_position": 3,
+        "term": "snapboard"
+      },
+      {
+        "monthly_queries_for_term": 110,
+        "num_results_for_term": 347000000,
+        "position": 12,
+        "position_change": 0,
+        "previous_position": 12,
+        "term": "snap board"
+      },
+      {
+        "monthly_queries_for_term": 110,
+        "num_results_for_term": 347000000,
+        "position": 62,
+        "position_change": 0,
+        "previous_position": 62,
+        "term": "snap board"
+      },
+      {
+        "monthly_queries_for_term": 90,
+        "num_results_for_term": 35900,
+        "position": 15,
+        "position_change": 0,
+        "previous_position": 15,
+        "term": "snapboard"
+      }
+    ],
+    "translated_rank_history_data": "{\"Apr 2025\":0,\"May 2025\":0,\"Jun 2025\":0,\"Jul 2025\":0,\"Aug 2025\":0,\"Sep 2025\":0,\"Oct 2025\":0,\"Nov 2025\":9,\"Dec 2025\":11,\"Jan 2026\":11,\"Feb 2026\":16,\"Mar 2026\":16}"
+  },
+  "overall_score": 68,
+  "page_count": {
+    "pages_discovered": [
+      "mysnapboard.com/",
+      "mysnapboard.com/search/",
+      "mysnapboard.com/account/",
+      "mysnapboard.com/customer_authentication/redirect/",
+      "mysnapboard.com/cart/",
+      "mysnapboard.com/pages/about/",
+      "mysnapboard.com/pages/team/",
+      "mysnapboard.com/collections/",
+      "mysnapboard.com/blogs/press-media/",
+      "mysnapboard.com/pages/faq/",
+      "mysnapboard.com/pages/contact/",
+      "mysnapboard.com/products/snap-board-top-bottom/",
+      "mysnapboard.com/pages/warranty-policy/",
+      "mysnapboard.com/blogs/press-media/msu-startup-summit-2026/",
+      "mysnapboard.com/blogs/press-media/life-hacker/",
+      "mysnapboard.com/blogs/press-media/snap-board-04-02-26/",
+      "mysnapboard.com/collections/vendors/",
+      "mysnapboard.com/products/end-caps/"
+    ],
+    "pages_discovered_count": 18
+  },
+  "page_errors": {
+    "has_errors": false
+  },
+  "page_titles_and_descriptions": {
+    "duplicated_items": true,
+    "homepage_meta_description": "Level up your snack game – freeze, snap, and share! SNAP! uses a non-toxic refrigerant encapsulated in a plastic pouch, that is then sealed inside the board for the life of the board. The package of refrigerant is a block of rigid foam that holds it’s shape frozen or thawed and, unless the board or plastic packaging i",
+    "homepage_title_tag": "SNAP | The Worlds First Cold, Fully Customizable Snackboard\n    \n    \n    \n      – My Snapboard",
+    "max_description_length": 158,
+    "max_title_length": 60,
+    "min_description_length": 0,
+    "missing_items": true,
+    "pages_duplicated_description_count": 4,
+    "pages_duplicated_title_count": 0,
+    "pages_missing_description_count": 4,
+    "pages_missing_title_count": 0,
+    "percent_duplicated_descriptions": 50,
+    "percent_duplicated_titles": 0,
+    "percent_missing_descriptions": 50,
+    "percent_missing_titles": 0,
+    "titles_or_descriptions_bad_length": true
+  },
+  "paid_search": {
+    "adwords_keywords": [],
+    "has_adplorer": false,
+    "has_adwords_spend": false
+  },
+  "parked_domain_detection": {
+    "is_parked": false
+  },
+  "pinterest": {
+    "has_pinterest": true,
+    "has_unconfirmed_pinterest": false,
+    "pinterest_profile_url": "https://www.pinterest.com/mysnapboard"
+  },
+  "report_id": "9860c76e417cffb43beaa934078f96bfbb856b0f",
+  "request_information": {
+    "user_parameters": {
+      "address": "",
+      "city": "",
+      "country_code": "US",
+      "domain_url": "https://mysnapboard.com/",
+      "industries": "",
+      "locations": "",
+      "name": "My Snapoard, Llc.",
+      "phone": "2057122506",
+      "products": "",
+      "starred_locations": "",
+      "starred_target_keywords": "cold snackboard,customizable cold snackboard,entertaining accessories,food-safe snack serving solutions,snackboard accessories",
+      "state": "",
+      "target_keywords": "cold snackboard,customizable cold snackboard,entertaining accessories,food-safe snack serving solutions,snackboard accessories,SNAP Snackboard,pre-sale snackboard discounts,custom snackboard designs,sip-n-snap events,event planning for snackboards",
+      "zip": ""
+    }
+  },
+  "review_integration": {
+    "has_reviews_integration": false
+  },
+  "reviews": {
+    "average_review": 0,
+    "facebook_average_rating": "0",
+    "google_average_rating": "0",
+    "reviews_found_count": 0
+  },
+  "reviews_normalised": {
+    "average_review": 0,
+    "datasets": {
+      "reviews": [
+        {
+          "average_review": 0,
+          "found_reviews": false,
+          "name": "Facebook",
+          "reviews_found_count": 0
+        },
+        {
+          "average_review": 0,
+          "found_reviews": false,
+          "name": "GoogleMaps",
+          "reviews_found_count": 0
+        },
+        {
+          "average_review": 0,
+          "found_reviews": false,
+          "name": "Bing",
+          "reviews_found_count": 0
+        }
+      ]
+    },
+    "reviews_found_count": 0
+  },
+  "server_behaviour": {
+    "error_page_sends_404": true,
+    "has_ssl": true,
+    "is_subdomain": false,
+    "missing_www_redirect": false,
+    "uses_brotli_compression": true,
+    "uses_gzip_compression": true,
+    "www_duplicate_content": false
+  },
+  "sitemap": {
+    "has_sitemap": true,
+    "sitemap_issues": true
+  },
+  "ssl": {
+    "has_hsts": true,
+    "has_ssl": true,
+    "mixed_content": false,
+    "page_issues": null,
+    "ssl_expired": false,
+    "ssl_redirect": true,
+    "ssl_valid": true
+  },
+  "stale_analysis": false,
+  "technology_detection": {
+    "detected_technologies": "cart functionality, search, visa, paypal, mastercard, google pay, apple pay, american express, amazon pay, priority hints, photoswipe, lazysizes, core-js, userway, shopify, hsts, cloudflare, open graph, http/3, rss",
+    "has_search": true,
+    "technology_categories": [
+      "Ecommerce",
+      "Search",
+      "Payment processors",
+      "Performance",
+      "Photo galleries",
+      "JavaScript libraries",
+      "Accessibility",
+      "Accessibility widget",
+      "Vendor",
+      "Security",
+      "CDN",
+      "Miscellaneous"
+    ],
+    "vendor": "Shopify"
+  },
+  "technology_profile": {
+    "has_impressum": false,
+    "has_search": true,
+    "vendor": "Shopify"
+  },
+  "user_team_id": 10429,
+  "version_id": "9860c76e417cffb43beaa934078f96bfbb856b0f_2026-05-06T17:03:37",
+  "video": {
+    "has_video": true,
+    "vendor": "HTML5"
+  },
+  "voice_search": {
+    "has_result": true,
+    "is_voice_search_optimised": false,
+    "voice_assistants_complete": [],
+    "voice_assistants_found": [],
+    "voice_assistants_tested": [
+      "google_assistant",
+      "siri"
+    ]
+  },
+  "web_vitals": {
+    "core_web_vitals_pass": false,
+    "cumulative_layout_shift": 0,
+    "cumulative_layout_shift_band": "good",
+    "first_input_delay": 162,
+    "first_input_delay_band": "average",
+    "largest_contentful_paint": 8,
+    "largest_contentful_paint_band": "bad",
+    "lighthouse_blocked": false,
+    "lighthouse_device": "mobile",
+    "lighthouse_success": true,
+    "lighthouse_throttle": "mobileSlow4G"
+  },
+  "website_screenshot": {
+    "desktop_screenshot_url": "https://screenshot.static.insites.com/9860c76e417cffb43beaa934078f96bfbb856b0f/Desktop1280x960/2026-05-06/17-03-20.png",
+    "mobile_screenshot_url": "https://screenshot.static.insites.com/9860c76e417cffb43beaa934078f96bfbb856b0f/Mobile/2026-05-06/17-03-19.png"
+  },
+  "website_speed": {
+    "estimated_input_latency": 0,
+    "first_contentful_paint": 1.503,
+    "first_contentful_paint_band": "good",
+    "first_cpu_idle": 0,
+    "first_meaningful_paint": 0,
+    "first_meaningful_paint_band": "",
+    "largest_contentful_paint": 8.928,
+    "largest_contentful_paint_band": "bad",
+    "lighthouse_blocked": false,
+    "lighthouse_success": true,
+    "performance_score": 66,
+    "performance_score_band": "average",
+    "server_response_time": 31.743,
+    "speed_index": 5.37,
+    "speed_index_band": "average"
+  },
+  "youtube": {
+    "has_unconfirmed_youtube": true,
+    "has_youtube": false,
+    "youtube_link": "https://www.youtube.com/channel/UCNN6tQC4UM44HTJFyngY8nw"
+  }
+}
+
+
+{
+   "report_id":"9860c76e417cffb43beaa934078f96bfbb856b0f",
+   "timestamp":"2026-05-06T17:03:53.853395Z",
+   "categories":[
+      {
+         "category":"Listings",
+         "category_score":6,
+         "recommendations":[
+            {
+               "pred":1,
+               "label":"Respond to your reviews with AI reviews",
+               "score":0.9990000128746032,
+               "action":"respond_reviews",
+               "header":"Respond to reviews with AI",
+               "subheader":"Use AI to craft professional, on-brand replies in seconds.",
+               "action_label":"Take user to Reputation page"
+            },
+            {
+               "pred":1,
+               "label":"Connect your listings to create consistent information across platforms",
+               "score":0.9959999918937684,
+               "action":"connect_listings",
+               "header":"Sync your listings",
+               "subheader":"Ensure your listings’ information matches across all directories.",
+               "action_label":"Open up onboarding modal for listings"
+            },
+            {
+               "pred":1,
+               "label":"Your name appears different on mulitpule listings, connect your listings to create consistency",
+               "score":0.6269999742507935,
+               "action":"fix_inconsistent_listings",
+               "header":"Fix mismatched business names",
+               "subheader":"Correct inconsistencies across your listings.",
+               "action_label":"Open up onboarding modal for listings"
+            }
+         ]
+      },
+      {
+         "category":"SEO",
+         "category_score":70,
+         "recommendations":[
+            {
+               "pred":1,
+               "label":"Improve your heading quality",
+               "score":0.9950000047683716,
+               "action":"improve_seo_headings",
+               "header":"Improve your heading quality",
+               "subheader":"Review and adjust your page titles for clarity and consistency.",
+               "action_label":"Open website editor (headings)"
+            },
+            {
+               "pred":1,
+               "label":"Update your keywords to rank better",
+               "score":0.9950000047683716,
+               "action":"update_keywords",
+               "header":"Change your keywords",
+               "subheader":"Update your focus terms to align with customer searches.",
+               "action_label":"Take to Competitor Ranking page"
+            },
+            {
+               "pred":1,
+               "label":"Add Search functionality",
+               "score":0.796999990940094,
+               "action":"add_site_search",
+               "header":"Add site search",
+               "subheader":"Let visitors search for content easily. Help them find what they need faster.",
+               "action_label":"Open website search settings"
+            }
+         ]
+      },
+      {
+         "category":"Social",
+         "category_score":78,
+         "recommendations":[
+            {
+               "pred":1,
+               "label":"Create a Youtube to gain more brand awareness and traction",
+               "score":0.996999979019165,
+               "action":"create_youtube",
+               "header":"Create a YouTube channel",
+               "subheader":"Set up a channel for your business.",
+               "action_label":"Must externally create a Youtube"
+            },
+            {
+               "pred":1,
+               "label":"Create a Pinterest",
+               "score":0.9359999895095824,
+               "action":"create_pinterest",
+               "header":"Create a Pinterest account",
+               "subheader":"Share inspiring visuals and product ideas.",
+               "action_label":"Must externally Create a Pinterest"
+            },
+            {
+               "pred":0,
+               "label":"Create an instagram",
+               "score":0.4589999914169311,
+               "action":"create_instagram",
+               "header":"Create your Instagram profile",
+               "subheader":"Set up an Instagram account for your business.",
+               "action_label":"Must externally create an instagram"
+            }
+         ]
+      },
+      {
+         "category":"Website",
+         "category_score":67,
+         "recommendations":[
+            {
+               "pred":1,
+               "label":"Add a Chat widget to your website",
+               "score":0.9359999895095824,
+               "action":"add_chat_widget",
+               "header":"Add a chat widget",
+               "subheader":"Let visitors message you in real time while they browse.",
+               "action_label":"Open chat widget setup"
+            },
+            {
+               "pred":0,
+               "label":"Add a live chat widget",
+               "score":0.20600000023841855,
+               "action":"add_live_chat",
+               "header":"Add live chat to your site",
+               "subheader":"Place a chat button on your site so customers can reach you instantly.",
+               "action_label":"Open live chat setup"
+            }
+         ]
+      }
+   ],
+   "request_id":"7f693ab4-e33e-429f-ae5c-389fb42a8c8c",
+   "model_version":"v3.0.20251211",
+   "overall_score":55.25
+}
+
