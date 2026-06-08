@@ -126,7 +126,7 @@ The audit endpoint requires a JWT token.
 Generate the token from:
 
 ```text
-https://qa-mc-product-fullfilment.staging.thryv.com/marketing-center/swagger-ui#/Health/get_marketing_center_api_health_jwt
+https://stge-mc-product-fullfilment.staging.thryv.com/marketing-center/swagger-ui#/Health/get_marketing_center_api_health_jwt
 ```
 
 Use:
@@ -214,7 +214,9 @@ brew install cloudflared
 Run tunnel:
 
 ```bash
-cloudflared tunnel --url http://localhost:8080
+cloudflared tunnel \
+  --protocol http2 \
+  --url http://localhost:8080
 ```
 
 Cloudflare will generate a public HTTPS URL similar to:
